@@ -30,7 +30,7 @@
       "KC_B",
       "KC_NO",
       "KC_NO",
-      "KC_LALT",
+      "MT(MOD_LALT,KC_F5)",
       "MO(1)",
       "MT(MOD_LCTL,KC_ENT)",
       "KC_PSCR",
@@ -60,7 +60,7 @@
       "KC_N",
       "KC_NO",
       "KC_NO",
-      "KC_F5",
+      "MT(MOD_LCTL | MOD_RCTL,KC_F12)",
       "MO(1)",
       "KC_SPC",
       "KC_PASTE"
@@ -122,7 +122,7 @@
       "S(KC_MINS)",
       "KC_NO",
       "KC_NO",
-      "KC_F12",
+      "KC_F8",
       "KC_TRNS",
       "KC_TRNS",
       "KC_COPY"
@@ -246,7 +246,7 @@
       "S(KC_MINS)",
       "KC_NO",
       "KC_NO",
-      "KC_F12",
+      "KC_F8",
       "KC_TRNS",
       "KC_TRNS",
       "KC_COPY"
